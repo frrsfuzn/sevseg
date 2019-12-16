@@ -1,6 +1,6 @@
 #include "Sevseg.h"
 
-Sevseg sevseg(12,11,10,9,8,7,6);
+Sevseg sevseg(12,11,10,9,8,7,6); // these are pin a to g in seven segment
 void setup() {
   // put your setup code here, to run once:
   
