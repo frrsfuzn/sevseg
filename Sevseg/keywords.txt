@@ -1,0 +1,3 @@
+Sevseg	KEYWORD1
+number	KEYWORD2
+clear	KEYWORD2
