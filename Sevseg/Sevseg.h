@@ -15,6 +15,6 @@ class Sevseg{
 	private:
 		int Pins[7];
 		
-};
+}; //DONT FORGET THERE'S SEMICOLON HERE
 
 #endif
